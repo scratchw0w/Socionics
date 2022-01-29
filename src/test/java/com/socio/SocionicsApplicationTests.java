@@ -9,5 +9,4 @@ class SocionicsApplicationTests {
     @Test
     void contextLoads() {
     }
-
 }
